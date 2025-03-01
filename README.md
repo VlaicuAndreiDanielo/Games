@@ -12,7 +12,7 @@ A classic word-guessing game where the player must discover a hidden word by gue
 - The word is chosen randomly at the start of each game.
 - Five difficulty levels, increasing based on word length.
 - The game displays:
-  - A visual representation of the hanging man when incorrect guesses are made.
+  - A visual representation of the hanging man updates when incorrect guesses are made.
   - Letters that have been used (both correct and incorrect).
   - The number of letters in the word.
 - The player can guess the entire word directly at any time.
